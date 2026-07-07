@@ -6,7 +6,7 @@ const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZ
 const DESIGNATIONS = ["Unit Head", "HOD", "Class Teacher", "Subject Teacher"];
 const CLASSES = ["Pre-KG","LKG","UKG","Std I","Std II","Std III","Std IV","Std V","Std VI","Std VII","Std VIII","Std IX","Std X","Std XI","Std XII"];
 const SECTIONS = ["A","B","C","D"];
-const CATEGORIES = ["Classroom Infrastructure","Furniture & Fixtures","Electrical / Lighting","Cleanliness & Hygiene","Student Behaviour","Academic Resources","IT & Technology","Safety & Security","Administrative Issue","Other"];
+const CATEGORIES = ["Classroom Infrastructure","Furniture & Fixtures","Electrical / Lighting","Cleanliness & Hygiene","Student Behaviour","Academic Resources","IT & Technology","Safety & Security","Administrative Issue",",POSH related","Colleague Misbehaviour","Other"];
 
 const ADMIN_USER = "KSV123";
 const ADMIN_PASS = "Kola@123";
